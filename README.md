@@ -2,6 +2,10 @@
 
 This project was bootstrapped with React
 
+create .env file and put into it this line: 
+## SERVER_ADDRESS="server address"
+
+
 ## Available Scripts
 
 In the project directory, you can run:
