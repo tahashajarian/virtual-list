@@ -2,7 +2,7 @@
 
 This project was bootstrapped with React
 
-create .env file and put into it this line: 
+Create ```.env``` file on the root of the project and put into it this line: 
 ```SERVER_ADDRESS="server address"```
 
 
