@@ -5,9 +5,7 @@ This project was bootstrapped with React
 Create ```.env``` file on the root of the project and put into it this line: 
 ```SERVER_ADDRESS="server address"```
 
-```sh
-USE ```yarn```
-```
+> use `Yarn`
 
 
 ## Available Scripts
