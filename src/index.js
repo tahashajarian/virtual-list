@@ -4,7 +4,7 @@ import { Provider } from "react-redux";
 import store from "./redux/store";
 import Routes from "./routes";
 
-import "./assets/styles/style.scss";
+import "./assets/styles/style.scss"; // test
 
 ReactDOM.render(
   <Provider store={store}>
