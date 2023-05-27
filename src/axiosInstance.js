@@ -16,7 +16,7 @@ axiosInstance.interceptors.response.use(
 
 axiosInstance.interceptors.request.use((request) => {
   request.baseURL = process.env.SERVER_ADDRESS;
-  // request.baseURL = "https://snappfood.ir/mobile/v3/";
+  request.baseURL = "https://snappfood.ir/mobile/v3/";
   return request;
 });
 
